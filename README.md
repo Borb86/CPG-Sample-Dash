@@ -3,7 +3,8 @@
 
 ## **Overview**
 
-This Power BI dashboard collection is broken into multiple retail performance reports. They provide insight into trends at multiple levels using sample data generated in Excel. It showcases interactive visualizations that allow users to explore key metrics and trends.
+This Power BI dashboard collection is broken into multiple retail performance reports. They provide insight into trends at multiple levels using sample data generated in Excel. It showcases interactive visualizations that allow users to explore key metrics and trends. 
+**Note**: This dashboard is made to demonstrate experience in building toolsets from retail data and will receive consistent updates as examples are created.
 
 ## **Features**
 
