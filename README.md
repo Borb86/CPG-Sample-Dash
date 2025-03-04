@@ -39,6 +39,10 @@ Created for regional management to have quick access to location performance. In
 
 - **KPIs** – Average Selling Price, Units Sold, Units on Hand, Inventory Value, Coverage (On Hand vs Avg sales), Average Monthly Sales
 
+### Re-Order Report
+
+Automated ordering budget calculations based on cost sold during ordering period with suggestions at a sku level.
+
 ## **Use Cases**
 
 - **Business Decision Making**: Helps stakeholders analyze trends and make data-driven decisions.
